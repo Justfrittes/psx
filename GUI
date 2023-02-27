@@ -1,3 +1,2 @@
-_G.UserID = SuperSayan_FR
-_G.WebHook = "https://discordapp.com/api/webhooks/1079889256350232669/B4JOFL00qf8wKU0pjIInUSjeIM5lMiH4z02FDW4zmpvUQ4NA6VTvNkI2-KgY7Xd-pVBM"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXAutoFarm/main/HasteFarm.lua", true))()
+_G.Username = SuperSayan_FR
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
