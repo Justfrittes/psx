@@ -1,2 +1,4 @@
-_G.Username = SuperSayan_FR
-loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+_G.Name = "SuperSayan_FR" --Remove The three ? and replace your roblox name
+_G.Username = "SuperSayan_FR" --Remove The three ? and replace your roblox name
+ 
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/TheProGamer435/TheProGamer/main/.gitignore"))()
