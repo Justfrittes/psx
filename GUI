@@ -1,2 +1,2 @@
-_G.Username = @SuperSayan_FR
+_G.Username = SuperSayan_FR
 loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
